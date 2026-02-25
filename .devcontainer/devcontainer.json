@@ -6,8 +6,8 @@
 	"image": "mcr.microsoft.com/devcontainers/dotnet:2-10.0-noble",
 	"features": {
 	},
-	"workspaceFolder": "/workspace",
-	"workspaceMount": "source=${localWorkspaceFolder}/exercise,target=/workspace,type=bind,consistency=cached",
+	"workspaceFolder": "/workspace/exercise",
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
