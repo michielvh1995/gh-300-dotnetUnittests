@@ -7,8 +7,8 @@
 	"features": {
 		"ghcr.io/devcontainer-config/features/dot-config:4": {}
 	},
-	"workspaceFolder": "exercise",
-	"workspaceMount": "source=${localWorkspaceFolder}/workspace,target=/workspace,type=bind,consistency=cached",
+	"workspaceFolder": "/workspace",
+	"workspaceMount": "source=${localWorkspaceFolder}/exercise,target=/workspace,type=bind,consistency=cached",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
