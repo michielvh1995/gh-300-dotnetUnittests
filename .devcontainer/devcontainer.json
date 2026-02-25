@@ -21,7 +21,7 @@
 	// }
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "./setupworkspace.sh",
+	"postCreateCommand": "$../.devcontainer/setupworkspace.sh",
 
 	
 
