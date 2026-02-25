@@ -21,7 +21,7 @@
 	// }
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "echo ${localWorkspaceFolder}",
+	"postCreateCommand": "./setupworkspace.sh",
 
 	
 
@@ -29,7 +29,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-dotnettools.csharp"
+				"ms-dotnettools.csharp",
+				"ms-dotnettools.csdevkit"
 			]
 		}
 	},
