@@ -8,3 +8,5 @@ cd ../..
 echo "Library.ApplicationCore"
 cd src/Library.ApplicationCore
 dotnet restore
+# Go back to the exercise folder
+cd ../..
