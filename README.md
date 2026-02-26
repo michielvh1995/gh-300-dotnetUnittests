@@ -7,6 +7,6 @@ This exercise is part of the GH-300 course by Microsoft. To perform the exercise
 ## How to start the exercise:
 First copy the exercise to your profile: 
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=getting-started-with-github-copilot&owner=%40me&name=skills-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_name=gh-300-dotnetUnittests&template_owner=michielvh1995)
 
 Then open a codespace on the main branch
