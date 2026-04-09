@@ -1,0 +1,11 @@
+name: "test"
+on: pull_request
+jobs:
+  test:
+    name: "test"
+    runs-on: ubuntu-slim
+      
+    
+    
+    
+   
